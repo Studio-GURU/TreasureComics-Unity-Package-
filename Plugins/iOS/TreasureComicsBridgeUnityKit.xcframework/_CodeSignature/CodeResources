@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/TreasureComicsBridgeUnityKit.framework/Info.plist</key>
 		<data>
-		V4bKs8jkv79JGLb8bsTYcWSwwq8=
+		SxXHGOYLgSexWaOAvP3iHKlLREk=
 		</data>
 		<key>ios-arm64/TreasureComicsBridgeUnityKit.framework/Modules/TreasureComicsBridgeUnityKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>ios-arm64/TreasureComicsBridgeUnityKit.framework/TreasureComicsBridgeUnityKit</key>
 		<data>
-		2JrIL56p6DWulDehgNPERMzkHtM=
+		QJzU2Iay6QqEPnsAvMZNq8EDgI8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TreasureComicsBridgeUnityKit.framework/Info.plist</key>
 		<data>
-		KU1UsnNifxmg/ltDPXCcwnpMx/w=
+		fytFWFWQHdED5akOGkacKsRm6vU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TreasureComicsBridgeUnityKit.framework/Modules/TreasureComicsBridgeUnityKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/TreasureComicsBridgeUnityKit.framework/TreasureComicsBridgeUnityKit</key>
 		<data>
-		rAmQaJSEHauKxvJxXPSuBk8rEBE=
+		JBrqgkPvSUFFkFwkpGfFTBhX+Rg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -83,11 +83,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V4bKs8jkv79JGLb8bsTYcWSwwq8=
+			SxXHGOYLgSexWaOAvP3iHKlLREk=
 			</data>
 			<key>hash2</key>
 			<data>
-			JmbPcVIZs9ohIa4ylIAaoYlSfBGtvZ11IH7hCLJrCOA=
+			jlbVRN/4nEa9+6Pc+t0J5L78WxuXUsT9Ty4HuahkbWI=
 			</data>
 		</dict>
 		<key>ios-arm64/TreasureComicsBridgeUnityKit.framework/Modules/TreasureComicsBridgeUnityKit.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -149,22 +149,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2JrIL56p6DWulDehgNPERMzkHtM=
+			QJzU2Iay6QqEPnsAvMZNq8EDgI8=
 			</data>
 			<key>hash2</key>
 			<data>
-			ETNbMEtMu2JLD5S+UN9GojuFMMAQAKO6PHcsXSf2XMI=
+			oMBQ6O2CH//6x6OzYjpsRNcUhjQuy75GMxnd8yq8fIM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TreasureComicsBridgeUnityKit.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KU1UsnNifxmg/ltDPXCcwnpMx/w=
+			fytFWFWQHdED5akOGkacKsRm6vU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Rhz7L/NNIOk77IyZtgmLB83gaEgE8umlxT4VVypl4tY=
+			7JWKzUySh6JxZMgZ5wcOrg8PZxBaTPnNxu9oXNKo7ug=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TreasureComicsBridgeUnityKit.framework/Modules/TreasureComicsBridgeUnityKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -270,11 +270,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rAmQaJSEHauKxvJxXPSuBk8rEBE=
+			JBrqgkPvSUFFkFwkpGfFTBhX+Rg=
 			</data>
 			<key>hash2</key>
 			<data>
-			dPZm3PyJvdllLsjUQr7WV68L0vYy9p16pi+25AGIwKY=
+			StlYUBCDWAU4zgL/ObLhISww2ovxdpN3lTfuOWdPVgI=
 			</data>
 		</dict>
 	</dict>
