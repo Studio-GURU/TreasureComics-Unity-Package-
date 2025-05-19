@@ -1,0 +1,13 @@
+{
+  "name": "treasurecomics.package",
+  "version": "25.5.1",
+  "displayName": "TreasureComics Package",
+  "description": "GuruCompany TreasureComics Plugin Package.",
+  "author": {
+    "name": "GuruCompany",
+    "email": "engineer@gurucompany.co.kr",
+    "url": "https://www.gurucompany.co.kr"
+  },
+  "license": "MIT",
+  "documentationUrl": "https://gurucompany.gitbook.io/treasurecomics/unity/start"
+}
